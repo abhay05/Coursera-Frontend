@@ -205,6 +205,9 @@ header{
   font-size:4em;
    font-weight:bold;
   color:purple;
+	background-color:grey;
+  width:300px;
+  margin-left:35%;
 }
 p{margin-top:50px;}
 body{background-image:url(https://png.pngtree.com/thumb_back/fh260/back_pic/04/46/05/2358567598439ba.jpg);
